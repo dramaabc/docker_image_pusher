@@ -7,3 +7,4 @@ xhofe/alist:latest
 registry:2
 hyper/docker-registry-web
 hello-world
+gcc
