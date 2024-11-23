@@ -6,5 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 registry:2
 hyper/docker-registry-web
-hello-world
 gcc
